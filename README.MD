@@ -4,8 +4,6 @@ Uses OpenCV and Tesseract.
 
 Sources:
 
-https://docs.google.com/a/celestica.com/spreadsheet/pub?key=0Aiakq5EFgZZTdGlmblFNMFZLN3huRnNUNzdkWDRoekE&output=html
-
 http://www.raywenderlich.com/12065/how-to-create-a-simple-android-game
 
 https://github.com/rmtheis/android-ocr
